@@ -1,0 +1,424 @@
+{
+  "version": 1,
+  "base_track": "Bright Blue",
+  "base_artist": "鷺沢文香 (CV: M・A・O)",
+  "createdAt": "2026-03-01T01:44:21.199647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bright Blue Tie",
+      "artist": "The Fiery Furnaces",
+      "has_synced": true,
+      "path": "select/01_Bright_Blue_Tie_The_Fiery_Furnaces.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bright Blue",
+      "artist": "Daniela Andrade",
+      "has_synced": true,
+      "path": "select/02_Bright_Blue_Daniela_Andrade.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bright, Blue Tango",
+      "artist": "Captain Beyond",
+      "has_synced": false,
+      "path": "select/03_Bright,_Blue_Tango_Captain_Beyond.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bright Blue Tango",
+      "artist": "Captain Beyond",
+      "has_synced": true,
+      "path": "select/04_Bright_Blue_Tango_Captain_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bright Blue Whales",
+      "artist": "Stop Light Observations",
+      "has_synced": true,
+      "path": "select/05_Bright_Blue_Whales_Stop_Light_Observations.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bright Blue Pickup Truck",
+      "artist": "Teen Suicide",
+      "has_synced": true,
+      "path": "select/06_Bright_Blue_Pickup_Truck_Teen_Suicide.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bright Blue Rose",
+      "artist": "Mary Black",
+      "has_synced": false,
+      "path": "select/07_Bright_Blue_Rose_Mary_Black.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bright Blue Rose",
+      "artist": "Christy Moore",
+      "has_synced": false,
+      "path": "select/08_Bright_Blue_Rose_Christy_Moore.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bright Blue Rose",
+      "artist": "Mary Black",
+      "has_synced": true,
+      "path": "select/09_Bright_Blue_Rose_Mary_Black.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bright Blue Rose",
+      "artist": "Christy Moore",
+      "has_synced": true,
+      "path": "select/10_Bright_Blue_Rose_Christy_Moore.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bright Blue Rose",
+      "artist": "Mary Black",
+      "has_synced": true,
+      "path": "select/11_Bright_Blue_Rose_Mary_Black.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bright Blue Eyes",
+      "artist": "Nina Nesbitt",
+      "has_synced": true,
+      "path": "select/12_Bright_Blue_Eyes_Nina_Nesbitt.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bright Blue Rose",
+      "artist": "Jimmy MacCarthy",
+      "has_synced": false,
+      "path": "select/13_Bright_Blue_Rose_Jimmy_MacCarthy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bright blue",
+      "artist": "鷺沢文香",
+      "has_synced": true,
+      "path": "select/14_Bright_blue_鷺沢文香.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bright Blue Sky",
+      "artist": "TWRP",
+      "has_synced": true,
+      "path": "select/15_Bright_Blue_Sky_TWRP.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bright Blue Rose",
+      "artist": "Christy Moore",
+      "has_synced": true,
+      "path": "select/16_Bright_Blue_Rose_Christy_Moore.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bright Blue Eyes",
+      "artist": "Nesbitt, Nina",
+      "has_synced": true,
+      "path": "select/17_Bright_Blue_Eyes_Nesbitt,_Nina.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bright Lights, Big City",
+      "artist": "Sonny James",
+      "has_synced": true,
+      "path": "select/18_Bright_Lights,_Big_City_Sonny_James.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Always Look On The Bright Side Of Life",
+      "artist": "Monty Python",
+      "has_synced": true,
+      "path": "select/19_Always_Look_On_The_Bright_Side_Of_Life_Monty_Python.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Always Look On The Bright Side Of Life",
+      "artist": "Monty Python",
+      "has_synced": true,
+      "path": "select/20_Always_Look_On_The_Bright_Side_Of_Life_Monty_Python.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Big Bright World",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/21_Big_Bright_World_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Bright Tonight",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/22_Bright_Tonight_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Where Are You Now (feat. Bright Lights)",
+      "artist": "Zeds Dead & Dirtyphonics",
+      "has_synced": true,
+      "path": "select/23_Where_Are_You_Now_(feat._Bright_Lights)_Zeds_Dead_&_Dirtyphonics.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Bright Red",
+      "artist": "Laurie Anderson",
+      "has_synced": true,
+      "path": "select/24_Bright_Red_Laurie_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "BURNING BRIGHT FT. KIM ANN FOXMAN",
+      "artist": "Maya Jane Coles",
+      "has_synced": true,
+      "path": "select/25_BURNING_BRIGHT_FT._KIM_ANN_FOXMAN_Maya_Jane_Coles.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Burning Bright (feat. Kim Ann Foxman)",
+      "artist": "Maya Jane Coles",
+      "has_synced": true,
+      "path": "select/26_Burning_Bright_(feat._Kim_Ann_Foxman)_Maya_Jane_Coles.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "This Bright Flash",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/27_This_Bright_Flash_M83.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "All Lives Revolve in Bright Circles of Quiet Light",
+      "artist": "Nick Grey",
+      "has_synced": false,
+      "path": "select/28_All_Lives_Revolve_in_Bright_Circles_of_Quiet_Light_Nick_Grey.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Bright Side",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/29_Bright_Side_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Burning Bright (Field on Fire)",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/30_Burning_Bright_(Field_on_Fire)_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "There's a Bright Side Somewhere",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/31_There's_a_Bright_Side_Somewhere_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Bright Lights",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/32_Bright_Lights_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "I'm Good (Blue)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/33_I'm_Good_(Blue)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "My Blue Angel",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/34_My_Blue_Angel_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Blue Morpho",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/35_Blue_Morpho_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Clearest Blue (Gryffin Remix)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/36_Clearest_Blue_(Gryffin_Remix)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Am I Blue",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/37_Am_I_Blue_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Am I Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/38_Am_I_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "Angel in Blue Jeans",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/39_Angel_in_Blue_Jeans_Train.lrc"
+    },
+    {
+      "id": "lrclib_40",
+      "source": "lrclib",
+      "title": "Atlanta Blue",
+      "artist": "The Statlers",
+      "has_synced": false,
+      "path": "select/40_Atlanta_Blue_The_Statlers.txt"
+    },
+    {
+      "id": "lrclib_41",
+      "source": "lrclib",
+      "title": "Baby Blue",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/41_Baby_Blue_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_42",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/42_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_43",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/43_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_44",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/44_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_45",
+      "source": "lrclib",
+      "title": "Baby's Got Her Blue Jeans On",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/45_Baby's_Got_Her_Blue_Jeans_On_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_46",
+      "source": "lrclib",
+      "title": "Baby's Got Her Blue Jeans On",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/46_Baby's_Got_Her_Blue_Jeans_On_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_47",
+      "source": "lrclib",
+      "title": "Barefoot Blue Jean Night",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/47_Barefoot_Blue_Jean_Night_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_48",
+      "source": "lrclib",
+      "title": "Barefoot Blue Jean Night",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/48_Barefoot_Blue_Jean_Night_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_49",
+      "source": "lrclib",
+      "title": "Between Blue Eyes And Jeans",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/49_Between_Blue_Eyes_And_Jeans_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_50",
+      "source": "lrclib",
+      "title": "Blue",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/50_Blue_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "lrclib_51",
+      "source": "lrclib",
+      "title": "Blue",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/51_Blue_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bright Blue",
+      "artist": "鷺沢文香(CV:M・A・O)",
+      "has_synced": false,
+      "path": "select/pl_01_Bright_Blue_鷺沢文香(CV_M・A・O).txt"
+    }
+  ]
+}
